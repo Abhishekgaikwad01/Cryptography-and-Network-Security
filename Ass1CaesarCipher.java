@@ -13,6 +13,7 @@ public class Ass1CaesarCipher{
         }   
         return encryptStr;   
     }   
+   
     public static String decryptData(String inputStr, int Key)   
     {    
         String decryptStr = "";   
