@@ -1,7 +1,6 @@
 public class Ass2PolyalphabeticCipher {
 
 
-    
 static String generateKey(String str, String key)
 {
     int x = str.length();
